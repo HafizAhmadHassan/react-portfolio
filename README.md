@@ -1,4 +1,5 @@
 # React Portfolio
+*Created: 2025-08-27*
 
 Source for my personal portfolio website, deployed at [hafizahmadhassan.github.io/react-portfolio](https://hafizahmadhassan.github.io/react-portfolio/).
 
